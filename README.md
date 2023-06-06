@@ -2,7 +2,7 @@
 I am currently working towrads my major for Cybersecurity, I really enjoy Pentesting, Development, and Networking.
 
 ## Skills and Experience
-Reverse Engineering
+🧬 Reverse Engineering
 
 🦠 Binary Exploitation
 
