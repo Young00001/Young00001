@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Calen
+I am currently working towrads my major for Cybersecurity, I really enjoy Pentesting, Development, and Networking.
 
-<!--
-**Young00001/Young00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Experience
+Reverse Engineering
 
-Here are some ideas to get you started:
+Binary Exploitation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Forensic Analysis
+
+Cryptography
+
+Python
+
+Assembly
+
+CPU Architecture
+
