@@ -16,3 +16,4 @@ Assembly
 
 CPU Architecture
 
+<img src="https://github.com/Young00001/Young00001/blob/main/giphy.gif" width="256" />
