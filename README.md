@@ -4,16 +4,16 @@ I am currently working towrads my major for Cybersecurity, I really enjoy Pentes
 ## Skills and Experience
 Reverse Engineering
 
-Binary Exploitation
+🦠 Binary Exploitation
 
-Forensic Analysis
+🔎 Forensic Analysis
 
-Cryptography
+🔐 Cryptography
 
-Python
+🐍 Python
 
-Assembly
+⚙️ Assembly
 
-CPU Architecture
+💻 CPU Architecture
 
 <img src="https://github.com/Young00001/Young00001/blob/main/giphy.gif" width="256" />
