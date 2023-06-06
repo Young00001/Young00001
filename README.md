@@ -16,4 +16,6 @@ I am currently working towrads my major for Cybersecurity, I really enjoy Pentes
 
 💻 CPU Architecture
 
+👁️ Network Reconnaissance
+
 <img src="https://github.com/Young00001/Young00001/blob/main/giphy.gif" width="256" />
