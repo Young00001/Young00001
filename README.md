@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Calen
-I am currently working towrads my major for Cybersecurity, I really enjoy Pentesting, Development, and Networking.
+I am currently working towrads my degree for Cybersecurity, I really enjoy Pentesting, Development, and Networking.
 
 ## Skills and Experience
 🧬 Reverse Engineering
