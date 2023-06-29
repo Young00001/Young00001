@@ -8,12 +8,12 @@
         I Specialize in Pentesting, Development, and Programming.<br>
  </i><br>
     <a href="https://www.linkedin.com/in/calen-young-b09900268/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.nvcc.edu/">
-    <img height="20" width="80" src="https://img.shields.io/badge/NVCC-darkgreen?style=for-the-badge&logo=naver&logoColor=gold&labelColor=rgb(26%2C%2093%2C%200)&color=gold"/>
+    <img height="19" width="80" src="https://img.shields.io/badge/NVCC-white?style=flat&logo=naver&logoColor=%23deb408&labelColor=%23046a38&color=%23046a38"/>
     </a>
-        
+
 <br>
 
 <h1 align="center">Skills and Experience 🧠</h1>
