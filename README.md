@@ -24,6 +24,11 @@
 
 <br>
 
+<h1 align="center">Languages 🙊</h1>
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/x86--32_Assembly-white?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=black&color=black"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></p>
+
+<br>
+
 <h1 align="center">OS 💻</h1>
 
 <a href="https://github.com/Young00001">
