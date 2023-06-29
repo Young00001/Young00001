@@ -4,13 +4,16 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Calen 😄<br>
-        I am currently working towards my degree for Cybersecurity,<br>
+        I am currently an undergraduate working towards my AAS degree in Information Technology<br>
         I Specialize in Pentesting, Development, and Programming.<br>
  </i><br>
     <a href="https://www.linkedin.com/in/calen-young-b09900268/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-
+    <a href="https://www.nvcc.edu/">
+    <img height="20" width="80" src="https://img.shields.io/badge/NVCC-darkgreen?style=for-the-badge&logo=naver&logoColor=gold&labelColor=rgb(26%2C%2093%2C%200)&color=gold"/>
+    </a>
+        
 <br>
 
 <h1 align="center">Skills and Experience 🧠</h1>
