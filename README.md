@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="styles.css">
-<h1 align="center">Hi There! <span class="wave">👋</span></h1>
+<h1 align="center">Hi There! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
