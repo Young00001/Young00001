@@ -1,4 +1,5 @@
-<h1 align="center">Hi There! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<link rel="stylesheet" href="styles.css">
+<h1 align="center">Hi There! <span class="wave">👋</span></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
